@@ -1,0 +1,58 @@
+/* Your card CSS file */
+.card{
+  display: block;
+  margin-top: 50px;
+}
+
+.card-category{
+  background-image: url("https://images.unsplash.com/photo-1555813456-94a3dd418cd3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fGJyZWFrZmFzdHxlbnwwfDB8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60");
+  padding: 60px;
+  color: white;
+  margin: 10px 0;
+  border-radius: 5px;
+}
+
+.card-product{
+  display: flex;
+  margin: 10px 0;
+}
+
+.card-product img{
+  /* width: 100px; */
+  height: 100px;
+}
+
+.product-desc h3, .product-desc p{
+  margin: 0;
+}
+
+.product-desc{
+  margin-left: 10px;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+}
+.card-trip img{
+  width: 100%;
+  height: 200px;
+}
+
+.trip-desc{
+  position: relative;
+  margin: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.trip-desc img{
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 425px;
+  top: -40px;
+}
+
+.trip-desc h3, .trip-desc p{
+  margin: 0;
+}

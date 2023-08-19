@@ -1,0 +1,19 @@
+.cards img{
+  width: 120px;
+}
+
+.cards{
+  display: flex;
+  justify-content: space-between;
+}
+.centering-txt{
+  text-align: center;
+}
+
+.card-section{
+  padding: 20px;
+  border: 1px solid gray;
+  margin: 0 10px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,10 @@
+console
+db:create
+db:drop
+db:migrate
+db:schema:dump
+db:seed
+db:timestamp
+db:version
+rubocop
+spec

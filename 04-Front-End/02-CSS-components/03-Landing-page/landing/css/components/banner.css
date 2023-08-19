@@ -1,0 +1,14 @@
+.banner{
+  background-image: url("/landing/images/background.png");
+  color: #ffffff;
+  padding: 100px;
+}
+
+.white-button{
+  color: #ffffff;
+  background-color: #43aa8b;
+  border-radius: 20px;
+  padding: 10px;
+  display: inline-block;
+  margin-top: 10px;
+}

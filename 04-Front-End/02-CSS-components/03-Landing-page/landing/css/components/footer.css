@@ -1,0 +1,19 @@
+footer{
+  background-color: #212529;
+}
+
+.social-medias{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.social-medias .fa-brands {
+  color: #588157;
+  font-size: 30px;
+  padding:0 10px;
+}
+
+.links{
+  padding: 50px;
+}
